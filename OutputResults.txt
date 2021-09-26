@@ -1,0 +1,80 @@
+ Short Time window used 3
+ Long Time window used  2
+ Threshold used  5
+
+The point at 0.02 seconds
+The Short Term power = 4.66667
+The Long Term power  = 2.5
+The Ratio            = 4.66667/2.5 = 1.86667
+The Threshold is      = 5
+Result - No Event at time 0.02
+
+The point at 0.04 seconds
+The Short Term power = 4.66667
+The Long Term power  = 6.5
+The Ratio            = 4.66667/6.5 = 0.717949
+The Threshold is      = 5
+Result - No Event at time 0.04
+
+The point at 0.06 seconds
+The Short Term power = 6.33333
+The Long Term power  = 5
+The Ratio            = 6.33333/5 = 1.26667
+The Threshold is      = 5
+Result - No Event at time 0.06
+
+The point at 0.08 seconds
+The Short Term power = 3.66667
+The Long Term power  = 5
+The Ratio            = 3.66667/5 = 0.733333
+The Threshold is      = 5
+Result - No Event at time 0.08
+
+The point at 0.1 seconds
+The Short Term power = 11.6667
+The Long Term power  = 5
+The Ratio            = 11.6667/5 = 2.33333
+The Threshold is      = 5
+Result - No Event at time 0.1
+
+The point at 0.12 seconds
+The Short Term power = 14
+The Long Term power  = 13
+The Ratio            = 14/13 = 1.07692
+The Threshold is      = 5
+Result - No Event at time 0.12
+
+The point at 0.14 seconds
+The Short Term power = 15
+The Long Term power  = 20.5
+The Ratio            = 15/20.5 = 0.731707
+The Threshold is      = 5
+Result - No Event at time 0.14
+
+The point at 0.16 seconds
+The Short Term power = 7
+The Long Term power  = 10
+The Ratio            = 7/10 = 0.7
+The Threshold is      = 5
+Result - No Event at time 0.16
+
+The point at 0.18 seconds
+The Short Term power = 2
+The Long Term power  = 2.5
+The Ratio            = 2/2.5 = 0.8
+The Threshold is      = 5
+Result - No Event at time 0.18
+
+The point at 0.2 seconds
+The Short Term power = 1
+The Long Term power  = 1
+The Ratio            = 1/1 = 1
+The Threshold is      = 5
+Result - No Event at time 0.2
+
+The point at 0.22 seconds
+The Short Term power = 0
+The Long Term power  = 1
+The Ratio            = 0/1 = 0
+The Threshold is      = 5
+Result - No Event at time 0.22
