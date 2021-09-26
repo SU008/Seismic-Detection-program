@@ -1,6 +1,8 @@
 # Seismic-Detection-program
 To analyse a file of Seismic Data values and output useful info like, the Short Term power into a new file.
 
+Note More detail about the program is in the Report. 
+
 This is a Seismic Detection program where the a file is read in, whose first value is the number of data points, second value is the interval of the data points, and then data points are sequiecially listed.
 
 Expantion of input file layout:
