@@ -12,7 +12,7 @@ Expantion of input file layout:
    ^2nd value is the interval used during measuremnt of the Seismic Data points.  
    
 12 0.02 1 2 3 1 3 1 5 4 2 1 1 1
-        ^Data points, the Seismic Data values listed in sequence. 
+        ^Data points (from 1 onwards is data points), the Seismic Data values listed in sequence. 
         
  
  The program will use then calcuate values for: 
